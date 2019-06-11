@@ -1,0 +1,11 @@
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.deps.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.runtimeconfig.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.runtimeconfig.dev.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\bin\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.pdb
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.csprojAssemblyReference.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.csproj.CoreCompileInputs.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.AssemblyInfoInputs.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.AssemblyInfo.cs
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda\obj\Release\netcoreapp2.1\rhel.7.2-x64\KiranAWSLambda.pdb

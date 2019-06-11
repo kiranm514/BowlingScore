@@ -1,0 +1,17 @@
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.Tests.deps.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.Tests.runtimeconfig.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.Tests.runtimeconfig.dev.json
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.Tests.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.Tests.pdb
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\bin\Release\netcoreapp2.1\KiranAWSLambda.pdb
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.csprojAssemblyReference.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.csproj.CoreCompileInputs.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.AssemblyInfoInputs.cache
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.AssemblyInfo.cs
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.csproj.CopyComplete
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.dll
+C:\Users\kiranmalsetty\Documents\Visual Studio 2017\Projects\KiranAWSLambda\KiranAWSLambda.Tests\obj\Release\netcoreapp2.1\KiranAWSLambda.Tests.pdb
